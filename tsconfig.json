@@ -5,6 +5,9 @@
   "references": [
     {
       "path": "./apps/post-hook"
+    },
+    {
+      "path": "./tools/hook-plugin"
     }
   ]
 }
